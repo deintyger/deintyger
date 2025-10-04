@@ -6,7 +6,6 @@
 - 📫 How to reach me email: deintygerworks@gmail.com
 - 😄 Pronouns: her
 - ⚡ Fun fact: "You would surprised on how fast i can type with two fingers"
-- I'm also learning css and html
 
 Projects:
 
