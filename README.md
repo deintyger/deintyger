@@ -7,7 +7,7 @@
 - 😄 Pronouns: her
 - ⚡ Fun fact: "You would surprised on how fast i can type with two fingers"
 
-Projects:
+
 
 
 
