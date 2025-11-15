@@ -1,20 +1,20 @@
 # Hi 👋, I'm Dein Tyger
 
-### A software Developer
+### A MERN stack Software Developer
 
 <p align="left"> <a href="https://twitter.com/deintyger" target="blank"><img src="https://img.shields.io/twitter/follow/deintyger?logo=twitter&style=for-the-badge" alt="deintyger" /></a> </p>
 
-- 🔭 I'm currently working on **a MERN stack project**
+- I'm currently working on **a MERN stack project**
 
-- 👯 I'm looking to collaborate on **open source projects**
+- I'm looking to collaborate on **open source projects**
 
-- 📫 How to reach me **deintygerworks@gmail.com**
+- How to reach me **deintygerworks@gmail.com**
 
-- ⚡ Fun fact **I love African Literatures**
+- Fun fact **I love African Literatures**
 
-- 👨‍💻 All of my projects are available at **[https://deintyger.vercel.app](https://deintyger.vercel.app)**
+- All of my projects are available at **[https://deintyger.vercel.app](https://deintyger.vercel.app)**
 
-- 📄 Know about my experiences **[https://bit.ly/49Prrac](https://bit.ly/49Prrac)**
+- Know about my experiences **[https://bit.ly/49Prrac](https://bit.ly/49Prrac)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
