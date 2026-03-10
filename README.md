@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dein Tyger
 
-### A MERN stack Software Developer
+### A Software Engineer
 
 <p align="left"> <a href="https://twitter.com/deintyger" target="blank"><img src="https://img.shields.io/twitter/follow/deintyger?logo=twitter&style=for-the-badge" alt="deintyger" /></a> </p>
 
